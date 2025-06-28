@@ -1,6 +1,6 @@
 # Experiment Projects
 
-These are all of my experiment projects.
+These are all of my experiment projects. I will be updating this as I learn more and do more projects.
 
 ### 1. Open only in my computer
 
